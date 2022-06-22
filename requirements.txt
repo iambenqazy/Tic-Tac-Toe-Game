@@ -54,7 +54,7 @@ nbformat==5.0.5
 nmap==0.0.1
 notebook==6.0.3
 nudatus==0.0.4
-numpy==1.18.2
+numpy==1.22.0
 openpyxl==3.0.3
 pandas==1.0.3
 pandocfilters==1.4.2
